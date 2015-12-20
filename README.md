@@ -1,3 +1,3 @@
 # hello-world
 This is my first git-hub repository.
-what more really needs to be said.
+I did this as my first project to understand how easy it is to use github.
